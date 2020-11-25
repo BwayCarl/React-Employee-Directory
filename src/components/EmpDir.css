@@ -1,0 +1,13 @@
+html, body {
+    font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: black 2px 1px;
+    background-color: dodgerblue;
+    padding: 2rem;
+    font-style: italic;
+    
+}
+
